@@ -1,0 +1,25 @@
+# Python environments
+.venv/
+venv/
+medgan_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
