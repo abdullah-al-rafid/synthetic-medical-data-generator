@@ -1,1 +1,11 @@
-
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+sdv
+tensorflow
+torch
+tqdm
+dython
