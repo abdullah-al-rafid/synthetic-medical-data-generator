@@ -23,3 +23,11 @@ __pycache__/
 # Temporary files
 *.tmp
 *.log
+
+# Local datasets
+heart_disease.csv
+heart_ctabgan_clean.csv
+
+# Local CTAB-GAN example datasets
+CTAB-GAN/Real_Datasets/
+CTAB-GAN/Fake_Datasets/
