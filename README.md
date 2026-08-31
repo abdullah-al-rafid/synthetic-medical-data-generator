@@ -639,6 +639,28 @@ rather than relying exclusively on a single evaluation metric.
 
 ---
 
+# 👥 Project Contributors
+
+This project was developed collaboratively by:
+
+## 👨‍💻 Abdullah Al Rafid
+
+**Computer Science & Engineering**  
+**Daffodil International University**
+
+🔗 **GitHub:**  
+https://github.com/abdullah-al-rafid
+
+## 👩‍💻 Jannatul Islam Asa
+
+**Computer Science & Engineering**  
+**Daffodil International University**
+
+🔗 **GitHub:**  
+https://github.com/jannatul-islam-asa
+
+---
+
 # 👨‍💻 Author
 
 ## Abdullah Al Rafid
